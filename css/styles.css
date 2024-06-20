@@ -1,0 +1,10 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1440px;
+    height: 848px;
+    background: #fff;
+}
+.gallery-section {
+    gap: 24px;
+}
